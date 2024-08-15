@@ -1,4 +1,4 @@
-![Screenshot 2024-08-15 100513](https://github.com/user-attachments/assets/57c7fbe0-dbe3-4198-b834-83b57ab78f37)# Introduction 
+# Introduction 
 In the world of agriculture, timely and accurate diagnosis of plant diseases is crucial for ensuring healthy crops and maximizing yield.
 Whether you're a farmer, agronomist, or researcher, having a reliable tool for identifying plant diseases can save both time and resources.
 Welcome to LeafGuard, your trusted platform for diagnosing diseases in potato plants through leaf analysis.
